@@ -1,4 +1,4 @@
-"variants":[
+{"variants":[
                  { "id":2001 ,
                    "color":"green",
                    "image":"assets/images/socks_green.jpg",
@@ -10,4 +10,5 @@
                    "image":"assets/images/socks_blue.jpg",
                    "quantity":10,
                  },
-             ],
+             ]
+}
